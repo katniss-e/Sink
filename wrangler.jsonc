@@ -21,10 +21,6 @@
       "enabled": true
     }
   },
-  "ai": {
-    "binding": "AI",
-    "remote": true
-  },
   "analytics_engine_datasets": [
     {
       "binding": "ANALYTICS",
